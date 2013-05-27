@@ -1,0 +1,11 @@
+
+.DS_Store
+
+bin/proximityFilm.app
+
+
+build/worldOfNoCraft.build/
+
+build/proximityFilm.build/
+
+bin/data/sweating.mov
