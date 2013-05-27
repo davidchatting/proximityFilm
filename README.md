@@ -1,4 +1,4 @@
-proximityFilm
+Proximity Film
 =============
 
 openframeworks talking to Arduino and scrubbing video based on distance
